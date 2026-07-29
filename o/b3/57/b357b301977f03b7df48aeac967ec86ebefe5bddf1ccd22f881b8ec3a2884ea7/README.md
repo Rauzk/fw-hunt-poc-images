@@ -8,6 +8,6 @@
 
 ## Watch
 
-- **[▶ Play in browser](https://rauzk.github.io/fw-hunt-poc-images/o/b3/57/b357b301977f03b7df48aeac967ec86ebefe5bddf1ccd22f881b8ec3a2884ea7/play.html)** (HTML5 player)
+- **[▶ Play in browser](https://cdn.jsdelivr.net/gh/Rauzk/fw-hunt-poc-images@main/o/b3/57/b357b301977f03b7df48aeac967ec86ebefe5bddf1ccd22f881b8ec3a2884ea7/demo.webm)** (HTML5 player)
 - [Open `demo.webm`](./demo.webm) (GitHub may download large files)
 - [HTML player source](./play.html)
